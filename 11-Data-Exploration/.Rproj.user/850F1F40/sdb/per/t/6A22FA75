@@ -1,0 +1,18 @@
+{
+    "contents" : "VariablesDataProfile <- function(dfMain)\n{\n## This function summarizes the variables from input data frame \n## Build summary data frame \n    dfSummary = data.frame(colnames(dfMain))\n    Rows <- length(colnames(dfMain))\n    \n## Build vectors with default values\n    NACount = rep(-1, times = Rows)\n    LevelsCount = rep(-1, times = Rows)\n    VarClass = rep(\"\", times = Rows)\n\n## Populate vectors with summary statistics\n    for(i in 1:Rows)\n    {\n        NACount[i] = sum(is.na(dfMain[ ,i]))\n        VarClass[i] = class(dfMain[ ,i])\n        if(VarClass[i] == \"factor\")\n          LevelsCount[i] = length(levels(as.factor(dfMain[ ,i])))\n        else\n          LevelsCount[i] = 0\n    }\n\n## Augment summary data frame with additional columns  \n    dfSummary$Class = VarClass\n    dfSummary$NACount = NACount\n    dfSummary$LevelsCount = LevelsCount\n\n## Provide use-friendly column names\n    colnames(dfSummary) = c(\"Variable.Name\", \"Variable.Class\", \"NA Count\", \"Levels Count\")\n\n## Write the out to Working Directory\n    write.csv(dfSummary, file = \"VariablesDataProfile.csv\")\n    \n## Return the Summary data frame to calling Program\n    dfSummary\n}",
+    "created" : 1464699795768.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2653279401",
+    "id" : "6A22FA75",
+    "lastKnownWriteTime" : 1464709785,
+    "path" : "D:/11 DATA ANALYTICS/89 MIT_TheAnalyticsEdge/99 Kaggle_Competition/MIT_TheAnalyticsEdge/11-Data-Exploration/VariablesDataProfile.R",
+    "project_path" : "VariablesDataProfile.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

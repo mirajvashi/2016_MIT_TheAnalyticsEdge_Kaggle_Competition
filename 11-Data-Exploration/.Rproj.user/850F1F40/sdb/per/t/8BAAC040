@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1464707720346.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8BAAC040",
+    "lastKnownWriteTime" : 21392300099829876,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "a24zpawbki",
+        "caption" : "dfSum1",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dfSum1&cache_key=a24zpawbki",
+        "displayedObservations" : "108",
+        "environment" : "",
+        "object" : "dfSum1",
+        "totalObservations" : "108",
+        "variables" : "4"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
