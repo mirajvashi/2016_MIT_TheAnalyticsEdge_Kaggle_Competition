@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1465305561512.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "92697080",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "exobalrl4o",
+        "caption" : "dfTrain",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dfTrain&cache_key=exobalrl4o",
+        "displayedObservations" : 5568,
+        "environment" : "",
+        "object" : "dfTrain",
+        "totalObservations" : 5568,
+        "variables" : 108
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
