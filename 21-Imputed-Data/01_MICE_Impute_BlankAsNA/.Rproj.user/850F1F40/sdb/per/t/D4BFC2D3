@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1465394795249.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D4BFC2D3",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ay5agzh0bv",
+        "caption" : "imputed",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=imputed&cache_key=ay5agzh0bv",
+        "displayedObservations" : 6955,
+        "environment" : "",
+        "object" : "imputed",
+        "totalObservations" : 6955,
+        "variables" : 106
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
