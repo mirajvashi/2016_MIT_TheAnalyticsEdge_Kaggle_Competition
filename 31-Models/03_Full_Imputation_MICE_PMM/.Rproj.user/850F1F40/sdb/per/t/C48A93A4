@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1465552973548.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C48A93A4",
+    "lastKnownWriteTime" : 21392300099829876,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ung6m57lra",
+        "caption" : "TrainDF",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=TrainDF&cache_key=ung6m57lra",
+        "displayedObservations" : "5563",
+        "environment" : "",
+        "object" : "TrainDF",
+        "totalObservations" : "5563",
+        "variables" : "108"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
