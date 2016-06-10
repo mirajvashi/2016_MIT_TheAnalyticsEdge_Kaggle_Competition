@@ -1,0 +1,6 @@
+Boruta performed 50 iterations in 1.673275 mins.
+ 3 attributes confirmed important: Q109244, Q113181, Q98197.
+ 98 attributes confirmed unimportant: EducationLevel, Gender, HouseholdStatus,
+Income, Q100010 and 93 more.
+ 6 tentative attributes left: Q119851, Q120379, Q121700, Q122771, Q98078 and 1
+more.

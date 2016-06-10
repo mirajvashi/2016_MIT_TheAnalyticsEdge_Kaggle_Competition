@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1465583949925.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "24C1A930",
+    "lastKnownWriteTime" : 1953718132,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "k7a0n1iwsd",
+        "caption" : "dfPred",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dfPred&cache_key=k7a0n1iwsd",
+        "displayedObservations" : 1392,
+        "environment" : "",
+        "object" : "dfPred",
+        "totalObservations" : 1392,
+        "variables" : 2
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
