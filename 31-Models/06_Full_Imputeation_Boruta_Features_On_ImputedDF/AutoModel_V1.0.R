@@ -15,9 +15,9 @@ library(ROCR)
 ## INITIALIZE VARIABLES
 
 ModelTypes = c("glm", "CART", "RandomForest")
-SplRatio <- c(0.50,0.55,0.60,0.65,0.70,0.75,0.80)
+SplRatio <- c(0.50,0.60,0.70,0.80, 0.9,1.0)
 RandSeed <- ifelse(SEED != 1, SEED, 13)
-Threshold <- c(0.40,0.45,0.50,0.55,0.60)
+Threshold <- c(0.4,0.50,0.60)
 TotalRows <- ((length(ModelTypes)-1) * length(SplRatio)) + (length(SplRatio) * length(Threshold))
 dfInput = DF_INPUT
 rIndex = 1

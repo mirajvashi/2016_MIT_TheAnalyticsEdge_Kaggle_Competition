@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1465619562877.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "46CA0E33",
+    "lastKnownWriteTime" : 21392300099829876,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "lfwyf66z1y",
+        "caption" : "dfTrainImputed",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dfTrainImputed&cache_key=lfwyf66z1y",
+        "displayedObservations" : 5563,
+        "environment" : "",
+        "object" : "dfTrainImputed",
+        "totalObservations" : 5563,
+        "variables" : 108
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
