@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1465906363213.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "58F52DFC",
+    "lastKnownWriteTime" : 578056044,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "hiwvx717l5",
+        "caption" : "Kaggle",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Kaggle&cache_key=hiwvx717l5",
+        "displayedObservations" : 2874,
+        "environment" : "",
+        "object" : "Kaggle",
+        "totalObservations" : 2874,
+        "variables" : 8
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
